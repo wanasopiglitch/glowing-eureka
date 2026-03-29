@@ -1500,4 +1500,217 @@ Mouse : 640 : 588 : LeftButtonDown : 0 : 0 : 0
 DELAY : 168
 Mouse : 640 : 588 : Move : 0 : 0 : 0
 Mouse : 640 : 588 : LeftButtonUp : 0 : 0 : 0
-DELAY : 3500
+DELAY : 9093
+Mouse : 639 : 582 : Move : 0 : 0 : 0
+DELAY : 23
+Mouse : 639 : 573 : Move : 0 : 0 : 0
+DELAY : 16
+Mouse : 639 : 571 : Move : 0 : 0 : 0
+DELAY : 17
+Mouse : 638 : 566 : Move : 0 : 0 : 0
+DELAY : 15
+Mouse : 637 : 557 : Move : 0 : 0 : 0
+DELAY : 16
+Mouse : 637 : 548 : Move : 0 : 0 : 0
+DELAY : 16
+Mouse : 637 : 543 : Move : 0 : 0 : 0
+DELAY : 16
+Mouse : 634 : 537 : Move : 0 : 0 : 0
+DELAY : 10
+Mouse : 634 : 534 : Move : 0 : 0 : 0
+DELAY : 15
+Mouse : 633 : 524 : Move : 0 : 0 : 0
+DELAY : 17
+Mouse : 631 : 517 : Move : 0 : 0 : 0
+DELAY : 13
+Mouse : 630 : 506 : Move : 0 : 0 : 0
+DELAY : 16
+Mouse : 628 : 496 : Move : 0 : 0 : 0
+DELAY : 20
+Mouse : 624 : 482 : Move : 0 : 0 : 0
+DELAY : 13
+Mouse : 619 : 466 : Move : 0 : 0 : 0
+DELAY : 15
+Mouse : 614 : 450 : Move : 0 : 0 : 0
+DELAY : 21
+Mouse : 610 : 438 : Move : 0 : 0 : 0
+DELAY : 43
+Mouse : 608 : 430 : Move : 0 : 0 : 0
+Mouse : 606 : 423 : Move : 0 : 0 : 0
+DELAY : 7
+Mouse : 606 : 412 : Move : 0 : 0 : 0
+DELAY : 10
+Mouse : 603 : 396 : Move : 0 : 0 : 0
+DELAY : 15
+Mouse : 600 : 373 : Move : 0 : 0 : 0
+DELAY : 15
+Mouse : 594 : 343 : Move : 0 : 0 : 0
+DELAY : 20
+Mouse : 588 : 321 : Move : 0 : 0 : 0
+DELAY : 12
+Mouse : 583 : 311 : Move : 0 : 0 : 0
+DELAY : 16
+Mouse : 580 : 306 : Move : 0 : 0 : 0
+DELAY : 17
+Mouse : 574 : 298 : Move : 0 : 0 : 0
+DELAY : 18
+Mouse : 565 : 285 : Move : 0 : 0 : 0
+DELAY : 13
+Mouse : 555 : 271 : Move : 0 : 0 : 0
+DELAY : 17
+Mouse : 546 : 259 : Move : 0 : 0 : 0
+DELAY : 12
+Mouse : 540 : 253 : Move : 0 : 0 : 0
+DELAY : 16
+Mouse : 533 : 244 : Move : 0 : 0 : 0
+DELAY : 13
+Mouse : 526 : 234 : Move : 0 : 0 : 0
+DELAY : 16
+Mouse : 522 : 224 : Move : 0 : 0 : 0
+DELAY : 14
+Mouse : 516 : 211 : Move : 0 : 0 : 0
+DELAY : 16
+Mouse : 511 : 200 : Move : 0 : 0 : 0
+DELAY : 16
+Mouse : 509 : 194 : Move : 0 : 0 : 0
+DELAY : 16
+Mouse : 507 : 189 : Move : 0 : 0 : 0
+DELAY : 17
+Mouse : 506 : 186 : Move : 0 : 0 : 0
+DELAY : 15
+Mouse : 504 : 180 : Move : 0 : 0 : 0
+DELAY : 17
+Mouse : 503 : 175 : Move : 0 : 0 : 0
+DELAY : 16
+Mouse : 503 : 170 : Move : 0 : 0 : 0
+DELAY : 17
+Mouse : 502 : 166 : Move : 0 : 0 : 0
+DELAY : 15
+Mouse : 502 : 161 : Move : 0 : 0 : 0
+DELAY : 17
+Mouse : 502 : 156 : Move : 0 : 0 : 0
+DELAY : 14
+Mouse : 502 : 150 : Move : 0 : 0 : 0
+DELAY : 17
+Mouse : 502 : 144 : Move : 0 : 0 : 0
+DELAY : 15
+Mouse : 502 : 141 : Move : 0 : 0 : 0
+DELAY : 19
+Mouse : 502 : 134 : Move : 0 : 0 : 0
+DELAY : 13
+Mouse : 502 : 126 : Move : 0 : 0 : 0
+DELAY : 13
+Mouse : 502 : 123 : Move : 0 : 0 : 0
+DELAY : 20
+Mouse : 501 : 116 : Move : 0 : 0 : 0
+DELAY : 9
+Mouse : 500 : 115 : Move : 0 : 0 : 0
+DELAY : 15
+Mouse : 500 : 111 : Move : 0 : 0 : 0
+DELAY : 16
+Mouse : 500 : 109 : Move : 0 : 0 : 0
+DELAY : 23
+Mouse : 499 : 105 : Move : 0 : 0 : 0
+DELAY : 17
+Mouse : 499 : 104 : Move : 0 : 0 : 0
+DELAY : 25
+Mouse : 498 : 102 : Move : 0 : 0 : 0
+DELAY : 35
+Mouse : 498 : 101 : Move : 0 : 0 : 0
+DELAY : 14
+Mouse : 498 : 100 : Move : 0 : 0 : 0
+DELAY : 14
+Mouse : 497 : 99 : Move : 0 : 0 : 0
+DELAY : 31
+Mouse : 497 : 98 : Move : 0 : 0 : 0
+DELAY : 9
+Mouse : 496 : 98 : Move : 0 : 0 : 0
+DELAY : 25
+Mouse : 496 : 96 : Move : 0 : 0 : 0
+DELAY : 49
+Mouse : 496 : 95 : Move : 0 : 0 : 0
+DELAY : 501
+Mouse : 496 : 95 : Move : 0 : 0 : 0
+DELAY : 4
+Mouse : 496 : 95 : LeftButtonDown : 0 : 0 : 0
+DELAY : 141
+Mouse : 496 : 95 : Move : 0 : 0 : 0
+DELAY : 2
+Mouse : 496 : 95 : LeftButtonUp : 0 : 0 : 0
+DELAY : 165
+Mouse : 487 : 94 : Move : 0 : 0 : 0
+DELAY : 2
+Mouse : 458 : 90 : Move : 0 : 0 : 0
+Mouse : 432 : 86 : Move : 0 : 0 : 0
+DELAY : 20
+Mouse : 411 : 84 : Move : 0 : 0 : 0
+DELAY : 3
+Mouse : 396 : 79 : Move : 0 : 0 : 0
+DELAY : 18
+Mouse : 383 : 75 : Move : 0 : 0 : 0
+DELAY : 13
+Mouse : 372 : 70 : Move : 0 : 0 : 0
+DELAY : 20
+Mouse : 361 : 66 : Move : 0 : 0 : 0
+DELAY : 12
+Mouse : 351 : 61 : Move : 0 : 0 : 0
+DELAY : 24
+Mouse : 338 : 55 : Move : 0 : 0 : 0
+DELAY : 10
+Mouse : 325 : 53 : Move : 0 : 0 : 0
+DELAY : 20
+Mouse : 313 : 49 : Move : 0 : 0 : 0
+DELAY : 11
+Mouse : 300 : 45 : Move : 0 : 0 : 0
+DELAY : 19
+Mouse : 294 : 44 : Move : 0 : 0 : 0
+DELAY : 13
+Mouse : 289 : 43 : Move : 0 : 0 : 0
+DELAY : 16
+Mouse : 285 : 43 : Move : 0 : 0 : 0
+DELAY : 15
+Mouse : 277 : 43 : Move : 0 : 0 : 0
+DELAY : 9
+Mouse : 272 : 41 : Move : 0 : 0 : 0
+DELAY : 16
+Mouse : 265 : 41 : Move : 0 : 0 : 0
+DELAY : 16
+Mouse : 257 : 40 : Move : 0 : 0 : 0
+DELAY : 13
+Mouse : 252 : 39 : Move : 0 : 0 : 0
+DELAY : 19
+Mouse : 248 : 39 : Move : 0 : 0 : 0
+DELAY : 15
+Mouse : 245 : 38 : Move : 0 : 0 : 0
+DELAY : 15
+Mouse : 241 : 37 : Move : 0 : 0 : 0
+DELAY : 58
+Mouse : 238 : 36 : Move : 0 : 0 : 0
+DELAY : 15
+Mouse : 235 : 34 : Move : 0 : 0 : 0
+DELAY : 9
+Mouse : 230 : 31 : Move : 0 : 0 : 0
+DELAY : 14
+Mouse : 227 : 28 : Move : 0 : 0 : 0
+DELAY : 18
+Mouse : 219 : 25 : Move : 0 : 0 : 0
+DELAY : 16
+Mouse : 216 : 24 : Move : 0 : 0 : 0
+DELAY : 15
+Mouse : 214 : 23 : Move : 0 : 0 : 0
+DELAY : 16
+Mouse : 214 : 22 : Move : 0 : 0 : 0
+DELAY : 17
+Mouse : 212 : 21 : Move : 0 : 0 : 0
+DELAY : 32
+Mouse : 211 : 20 : Move : 0 : 0 : 0
+DELAY : 34
+Mouse : 210 : 19 : Move : 0 : 0 : 0
+DELAY : 31
+Mouse : 209 : 18 : Move : 0 : 0 : 0
+DELAY : 31
+Mouse : 208 : 17 : Move : 0 : 0 : 0
+DELAY : 761
+Mouse : 208 : 17 : Move : 0 : 0 : 0
+DELAY : 133
+Mouse : 208 : 17 : Move : 0 : 0 : 0
